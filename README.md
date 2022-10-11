@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello :)
+
+My name is Ziad Safarjalani. I am currently a second year student studying Mathematics at UWaterloo.
+I like to program and use any new knowledge I gain to improve my software abilities.
+
+💬 I really enjoy working out, rock climbing and playing the piano. Shostakovich is my favourite and 
+@[https://www.youtube.com/c/magmidt88] rocks.
 
 <!--
 **ziad-safari/ziad-safari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Hello!
