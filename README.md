@@ -7,9 +7,9 @@ I like to program and use any new knowledge I gain to improve my software abilit
 https://www.youtube.com/c/magmidt88 rocks.
 
 Feel free to reach out to me on any of my social medias:  
-Instagram: @ziad_safari
-Linkedin: https://www.linkedin.com/in/ziad-safarjalani/
-Discord: Ziad#9878
+Instagram: @ziad_safari  
+Linkedin: https://www.linkedin.com/in/ziad-safarjalani/  
+Discord: Ziad#9878  
 
 Also check out my youtube channel that I sometimes use :()
 https://www.youtube.com/channel/UCHbyLuhjZ-I_ntY0et7Cyag
