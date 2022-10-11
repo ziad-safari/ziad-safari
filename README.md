@@ -6,6 +6,14 @@ I like to program and use any new knowledge I gain to improve my software abilit
 💬 I really enjoy working out, rock climbing and playing the piano. Shostakovich is my favourite and 
 https://www.youtube.com/c/magmidt88 rocks.
 
+Feel free to reach out to me on any of my social medias:
+Instagram: @ziad_safari
+Linkedin: https://www.linkedin.com/in/ziad-safarjalani/
+Discord: Ziad#9878
+
+Also check out my youtube channel that I sometimes use :()
+https://www.youtube.com/channel/UCHbyLuhjZ-I_ntY0et7Cyag
+
 <!--
 **ziad-safari/ziad-safari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
