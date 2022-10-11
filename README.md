@@ -6,7 +6,7 @@ I like to program and use any new knowledge I gain to improve my software abilit
 💬 I really enjoy working out, rock climbing and playing the piano. Shostakovich is my favourite and 
 https://www.youtube.com/c/magmidt88 rocks.
 
-Feel free to reach out to me on any of my social medias:
+Feel free to reach out to me on any of my social medias:  
 Instagram: @ziad_safari
 Linkedin: https://www.linkedin.com/in/ziad-safarjalani/
 Discord: Ziad#9878
