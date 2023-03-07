@@ -1,7 +1,7 @@
 ### Hello :)
 
-My name is Ziad Safarjalani. I am currently a second year student studying Mathematics at UWaterloo.
-I like to program and use any new knowledge I gain to improve my software abilities.
+My name is Ziad Safarjalani. I'm currently a second year student studying Mathematics at UWaterloo.
+I like to program and improve my software abilities.
 
 💬 I really enjoy working out, rock climbing and playing the piano. Shostakovich is my favourite and 
 https://www.youtube.com/c/magmidt88 rocks.
@@ -11,7 +11,7 @@ Instagram: https://www.instagram.com/ziad_safari/
 Linkedin: https://www.linkedin.com/in/ziad-safarjalani/  
 Discord: Ziad#9878  
 
-Also check out my youtube channel that I sometimes use :()
+Also check out my (dead) youtube channel:
 https://www.youtube.com/channel/UCHbyLuhjZ-I_ntY0et7Cyag
 
 <!--
