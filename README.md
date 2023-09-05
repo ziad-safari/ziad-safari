@@ -1,7 +1,5 @@
 ### Hello, I'm Ziad.
 
-<br></br>
-
 🌱 About me
 
 
