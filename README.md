@@ -1,7 +1,7 @@
 ### Hello :)
 
 🌱 About me
-  I'm a software developer currently studying **Computational Mathematics and Computer Science** at the University of Waterloo with an interest in frontend and UI development work. I look forward to growing within the industry and take pride in the work I create.
+I'm a software developer currently studying **Computational Mathematics and Computer Science** at the University of Waterloo with an interest in frontend and UI development work. I look forward to growing within the industry and take pride in the work I create.
 
 - 🔭 Currently I'm ...
   -  Working as a Software Developer intern at [Chatsimple](https://www.chatsimple.ai/).
