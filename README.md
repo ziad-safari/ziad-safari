@@ -19,6 +19,7 @@ I'm a software developer currently studying **Computational Mathematics and Comp
   - [Shostakovich](https://www.youtube.com/watch?v=GB3zR_X25UU) is my favourite composer and [Magnus](https://www.youtube.com/watch?v=tIE_nJWmXB0&t=686s) rocks.
 
 📫 You can reach me at ...
+  - [Email](mailto:ziad.safari1@gmail.com)
   - [Instagram](https://www.instagram.com/ziad_safari/)  
   - [Linkedin](https://www.linkedin.com/in/ziad-safarjalani/)  
   - Discord: **Ziad#9878**  
