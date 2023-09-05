@@ -15,7 +15,7 @@ I'm a software developer currently studying **Computational Mathematics and Comp
 
 
 💬 Outside of work I ...
-  - Enjoy working out, rock climbing and playing the piano.
+  - Enjoy working out, rock climbing, playing the piano and composing music.
   - [Shostakovich](https://www.youtube.com/watch?v=GB3zR_X25UU) is my favourite composer and [Magnus](https://www.youtube.com/watch?v=tIE_nJWmXB0&t=686s) rocks.
 
 📫 You can reach me at ...
