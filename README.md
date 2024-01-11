@@ -6,10 +6,10 @@
 I'm a software developer currently studying **Computational Mathematics and Computer Science** at the University of Waterloo. I look forward to growing within the industry and take pride in the work I create.
 
 🔭 Currently I'm ...
-  -  Working as a Software Engineer intern at [Chatsimple](https://www.chatsimple.ai/).
   -  Looking for Summer 2024 internship opportunities.
 
 👯 I’ve previously worked as a ...
+  -  Software Engineer intern at [Chatsimple](https://www.chatsimple.ai/).
   -  Quality Engineer Intern at [TD Bank](https://www.td.com/ca/en/personal-banking), automating detailed test scripts for debit card transactions.
   -  Front-end Developer at [Wordn](https://www.wordn.io/), learning React, Redux and Typescript to develop/improve UI/UX and Python to build backend API's
 
