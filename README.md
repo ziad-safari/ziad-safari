@@ -6,7 +6,7 @@
 I'm a software developer currently studying **Computational Mathematics and Computer Science** at the University of Waterloo. I look forward to growing within the industry and take pride in the work I create.
 
 🔭 Currently I'm ...
-  -  Looking for Summer 2024 internship opportunities.
+  - Working as a Software Engineer intern at [Exacare](https://www.exacare.com/)
 
 👯 I’ve previously worked as a ...
   -  Software Engineer intern at [Chatsimple](https://www.chatsimple.ai/).
